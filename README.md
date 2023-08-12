@@ -1,2 +1,3 @@
 # HTML
-my first website
+my first html website.
+blog post website showcasing different elements and their attributes.
